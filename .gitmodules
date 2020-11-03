@@ -1,0 +1,3 @@
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/Dragon9815/tulip-kernel
